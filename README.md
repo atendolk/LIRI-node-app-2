@@ -1,7 +1,9 @@
 # liri-node-app
 
 clone the repo to your computer and open up a git Bash/terminal window.
-What Each Command Should Do
+
+
+What Each Command Should Do:
 node liri.js my-tweets
 
 This will show your last 20 tweets and when they were created at in your terminal/bash window.
